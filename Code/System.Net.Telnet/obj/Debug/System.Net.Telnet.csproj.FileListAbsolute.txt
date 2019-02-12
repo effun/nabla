@@ -1,0 +1,6 @@
+E:\Projects\Nabla\Code\System.Net.Telnet\bin\Debug\System.Net.Telnet.dll
+E:\Projects\Nabla\Code\System.Net.Telnet\bin\Debug\System.Net.Telnet.pdb
+E:\Projects\Nabla\Code\System.Net.Telnet\obj\Debug\System.Net.Telnet.csproj.CoreCompileInputs.cache
+E:\Projects\Nabla\Code\System.Net.Telnet\obj\Debug\System.Net.Telnet.dll
+E:\Projects\Nabla\Code\System.Net.Telnet\obj\Debug\System.Net.Telnet.pdb
+E:\Projects\Nabla\Code\System.Net.Telnet\obj\Debug\System.Net.Telnet.csprojResolveAssemblyReference.cache

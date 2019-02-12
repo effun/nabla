@@ -1,0 +1,6 @@
+E:\Projects\Nabla\Code\Common\bin\Release\Nabla.Common.dll
+E:\Projects\Nabla\Code\Common\bin\Release\Nabla.Common.pdb
+E:\Projects\Nabla\Code\Common\obj\Release\Nabla.Common.csprojResolveAssemblyReference.cache
+E:\Projects\Nabla\Code\Common\obj\Release\Nabla.Common.csproj.CoreCompileInputs.cache
+E:\Projects\Nabla\Code\Common\obj\Release\Nabla.Common.dll
+E:\Projects\Nabla\Code\Common\obj\Release\Nabla.Common.pdb

@@ -1,0 +1,14 @@
+E:\Projects\Nabla\Code\Linq.EntityFramework\bin\Debug\Nabla.Linq.EntityFramework.dll.config
+E:\Projects\Nabla\Code\Linq.EntityFramework\bin\Debug\Nabla.Linq.EntityFramework.dll
+E:\Projects\Nabla\Code\Linq.EntityFramework\bin\Debug\Nabla.Linq.EntityFramework.pdb
+E:\Projects\Nabla\Code\Linq.EntityFramework\bin\Debug\EntityFramework.dll
+E:\Projects\Nabla\Code\Linq.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Nabla\Code\Linq.EntityFramework\bin\Debug\Nabla.Common.dll
+E:\Projects\Nabla\Code\Linq.EntityFramework\bin\Debug\Nabla.Common.pdb
+E:\Projects\Nabla\Code\Linq.EntityFramework\bin\Debug\EntityFramework.xml
+E:\Projects\Nabla\Code\Linq.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Nabla\Code\Linq.EntityFramework\obj\Debug\Nabla.Linq.EntityFramework.csproj.CoreCompileInputs.cache
+E:\Projects\Nabla\Code\Linq.EntityFramework\obj\Debug\Nabla.Linq.EntityFramework.csproj.CopyComplete
+E:\Projects\Nabla\Code\Linq.EntityFramework\obj\Debug\Nabla.Linq.EntityFramework.dll
+E:\Projects\Nabla\Code\Linq.EntityFramework\obj\Debug\Nabla.Linq.EntityFramework.pdb
+E:\Projects\Nabla\Code\Linq.EntityFramework\obj\Debug\Nabla.Linq.EntityFramework.csprojAssemblyReference.cache
